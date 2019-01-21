@@ -22,5 +22,5 @@ for i in range(1,11):
 		print("     RTT: " + str(RTT))
 	except timeout:
 		print("Request timed out")
-print("10 packets sent; over")
+print("10 packets sent; that's all")
 
