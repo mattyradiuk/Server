@@ -1,2 +1,2 @@
 # Server
-Simple python server code made for CSC361, now redesigned and running on my rasPi 3b
+Simple python server code ripped from a youtube video, wanted to try hosting my website on a raspi 3b.
