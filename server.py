@@ -1,5 +1,3 @@
-#Matt Radiuk Lab 1 for CSC321 Fall 2018
-
 from socket import *
 import sys # In order to terminate the program
 host = ''
