@@ -1,5 +1,5 @@
 from socket import *
-import sys # In order to terminate the program
+import sys 
 host = ''
 port = 6789
 
