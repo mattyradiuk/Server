@@ -13,6 +13,7 @@ while True:
     connectionSocket, addr =  serverSocket.accept()
 
     try:
+        #Revieves the request and sends the appropriate file  
         message = connectionSocket.recv(1024).decode()          
         filename = message.split()[1]               
         f = open(filename[1:]) 
